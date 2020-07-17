@@ -2,9 +2,9 @@
 #! reading user input and using if statment
 
 echo "Enter your new passworld: "
-read -s pass1  #-s to hidden the password
+read  pass1
 echo "Enter your new password again: "
-read -s pass2
+read  pass2
 
 if [ $pass1 = $pass2 ]
 then
