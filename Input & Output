@@ -1,0 +1,14 @@
+$ bash reset.sh 
+Enter your new passworld: 
+12345
+Enter your new password again: 
+12345
+Done
+
+
+$ bash reset.sh 
+Enter your new passworld: 
+1235
+Enter your new password again: 
+123
+passwords not matched
